@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Orientation</string>
+
+    <string-array name="dropdownPort">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+    <string-array name="dropdownLand">
+        <item>red</item>
+        <item>green</item>
+        <item>blue</item>
+    </string-array>
+
+
+</resources>
